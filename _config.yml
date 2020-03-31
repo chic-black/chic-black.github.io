@@ -35,9 +35,9 @@ github:
 swiftype:
   searchId: BEDnQJ6-j-rMQaksZbdE
 gitment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+    repo: chic-black.github.io
+    client_id: a6e5d0e08bdde9aed501
+    client_secret: 9608273e351e7f153f879add258786f808f331a4
 
 url: "https://chic-black.github.io"
 imgrepo: "https://chic-black.github.io/static/img"
